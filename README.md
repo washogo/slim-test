@@ -3,3 +3,11 @@
 1. PHPのインストール
 2. Composerのインストール
 3. Slimのインストール
+
+## 環境構築コマンドの流れ（for Mac）
+1. brew update
+2. brew install php
+3. php -v
+4. brew install composer
+5. composer -v
+6. composer require slim/slim:"4.*"
