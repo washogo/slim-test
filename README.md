@@ -11,3 +11,8 @@
 4. brew install composer
 5. composer -v
 6. composer require slim/slim:"4.*"
+
+## バージョン情報
+1. PHP 8.3.10
+2. Composer 2.7.8
+3. Slim 4.*
